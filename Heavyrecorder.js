@@ -13,6 +13,7 @@
 // Wait for the file to download                                 //
 ///////////////////////////////////////////////////////////////////
 
+// Currently working on a website, where I can put this into.
 
 <!DOCTYPE html>
 <html>
